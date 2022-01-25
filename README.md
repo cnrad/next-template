@@ -6,7 +6,7 @@ Next.js template using TypeScript + useful packages. Kickstart productivity, wit
 
 Run `git clone https://github.com/cnrad/next-template.git .` to setup the project in your current folder.
 
-- (or click the "use this template" on this repository page)
+-   (or click the "use this template" on this repository page)
 
 Just run `npm install` (or `yarn install`) and start working on your project immediately.
 
@@ -14,7 +14,7 @@ Just run `npm install` (or `yarn install`) and start working on your project imm
 
 This template comes prepped with:
 
--   TailwindCSS (just-in-time engine enabled by default)
+-   TailwindCSS
 -   styled-components (along with \_document.tsx for hot-refresh to work properly)
 -   framer-motion
 -   prettier
