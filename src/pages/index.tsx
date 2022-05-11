@@ -8,8 +8,8 @@ const Home: NextPage = () => {
             <Head>
                 <title>cnrad's next.js template</title>
             </Head>
-            <div className="w-[100vw] h-[100vh] flex flex-col items-center justify-center text-white text-3xl font-semibold">
-                cnrad's next.js template
+            <div className="w-full h-[100vh] flex flex-col items-center justify-center text-white text-3xl font-semibold">
+                cnrad&apos;s next.js template
                 <GitHubButton />
             </div>
         </>
